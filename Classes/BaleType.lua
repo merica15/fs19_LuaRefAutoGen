@@ -1,5 +1,5 @@
 ---@class BaleType
-BaleType = {
+BaleType = {beanlage_windrow
     COTTON_244_244_488 = 9,
     DRYGRASS_WINDROW_112_130 = 6,
     DRYGRASS_WINDROW_120_90_240 = 2,
@@ -9,4 +9,6 @@ BaleType = {
     SILAGE_120_90_240 = 4,
     STRAW_112_130 = 5,
     STRAW_120_90_240 = 1,
+    BEANLAGE_WINDROW_112_130 = 10,
+    BEANLAGE_WINDROW_120_90_240 = 11,
 }
